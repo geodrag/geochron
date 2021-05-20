@@ -1,0 +1,14 @@
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.IS_creation.resources
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.Main_Window.resources
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.Isotope_system_management.resources
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.Calculation.resources
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.Properties.Resources.resources
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.csproj.GenerateResource.cache
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.csproj.CoreCompileInputs.cache
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\bin\Debug\Geochron.exe.config
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\bin\Debug\Geochron.exe
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\bin\Debug\Geochron.pdb
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.exe
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.pdb
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.csprojAssemblyReference.cache
+C:\Users\copte\Desktop\Геология\Geochron\Geochron\Geochron\obj\Debug\Geochron.Isochrone.resources
